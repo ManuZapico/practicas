@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 
 Actualizado desde GitHub, totalmente. 
+
+
+
+Estos cambios son nuevos
